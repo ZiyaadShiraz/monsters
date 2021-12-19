@@ -1,0 +1,15 @@
+.card{
+    background-image: linear-gradient(#4CB8C4, #3CD3AD);
+    padding: 0.5rem; 
+    border-radius: 1rem;
+    color: white;
+    display: inline-block;
+   
+    margin: 2rem;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.card:hover{
+    transition: 0.24s;
+    transform: scale(1.02);
+}

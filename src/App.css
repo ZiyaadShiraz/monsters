@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+.search-field{
+  appearance: none;
+  margin: 1rem auto; 
+  border-radius: 0.5rem;
+  border: 0.5px solid black;
+  padding: 10px;
+  font-size: 1rem;
+  width: 25%;
+  min-width: 100px;
+  display: block;
+  position: sticky;
+  z-index: 1;
+  top: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;}
+
+
+.title{
+  color: white;
+  font-size: 4rem;
+  text-align: center;
+  font-family: 'Bigelow Rules', cursive;
+}
