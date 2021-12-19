@@ -1,7 +1,7 @@
 {
   "name": "my-first",
   "version": "0.1.0",
-  "homepage": "https://ziyaadshiraz.github.io/monsters-rolodex/",
+  "homepage": "https://ziyaadshiraz.github.io/monsters",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
